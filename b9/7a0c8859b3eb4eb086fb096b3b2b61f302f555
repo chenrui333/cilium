@@ -1,0 +1,17 @@
+pkg/datapath/linux/routing/reassign_test.go
+  h_9df9c32c3f321d 1-18,20-172
+  h_9df9c32c3f321d 19
+pkg/datapath/linux/routing/routing.go
+  h_9df9c32c3f321d 218-232,554-577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b97a0c8859b3eb4eb086fb096b3b2b61f302f555",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
